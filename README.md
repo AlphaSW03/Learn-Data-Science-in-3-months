@@ -1,7 +1,7 @@
 # Learn Data Science in 3 Months
 
 ### Accelerated Learning Techniques
-- Watch videos at 2x or 3x speed using a browser extension
+
 - Handwrite notes as you watch for memory retention
 - Immerse yourself in the [community](https://medium.com/@exastax/top-20-data-science-blogs-and-websites-for-data-scientists-d88b7d99740)
 
